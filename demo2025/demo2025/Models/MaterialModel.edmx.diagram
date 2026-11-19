@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="fd63c7ad81d444c382a32216dbecf58a" Name="Diagram1" ZoomLevel="116">
+        <EntityTypeShape EntityType="demo2025Model.Material" Width="1.5" PointX="3" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.MaterialProduct" Width="1.5" PointX="5.25" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.MaterialType" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.Partner" Width="1.5" PointX="10" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.PartnerType" Width="1.5" PointX="7.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.Product" Width="1.5" PointX="3" PointY="10.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.Productpartner" Width="1.5" PointX="12.25" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.ProductType" Width="1.5" PointX="0.75" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.Sklad" Width="1.5" PointX="3" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.Skladmaterial" Width="1.5" PointX="5.25" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.SkladUser" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.Supplier" Width="1.5" PointX="3" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.SupplierMaterial" Width="1.5" PointX="5.25" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.SupplierType" Width="1.5" PointX="0.75" PointY="17" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.sysdiagrams" Width="1.5" PointX="7.75" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="demo2025Model.User" Width="1.5" PointX="3" PointY="20" IsExpanded="true" />
+        <AssociationConnector Association="demo2025Model.FK_Material_MaterialType" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_MaterialProduct_Material" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_Skladmaterial_Material" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_SupplierMaterial_Material" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_MaterialProduct_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_Partner_PartnerType" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_Productpartner_Partner" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_Product_ProductType" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_Productpartner_Product" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_Skladmaterial_Sklad" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_SkladUser_Sklad1" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_SkladUser_User1" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_Supplier_SupplierType" ManuallyRouted="false" />
+        <AssociationConnector Association="demo2025Model.FK_SupplierMaterial_Supplier" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

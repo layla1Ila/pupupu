@@ -1,0 +1,1 @@
+DBCC CHECKIDENT ('PartnerProductsImport', RESEED, 0)

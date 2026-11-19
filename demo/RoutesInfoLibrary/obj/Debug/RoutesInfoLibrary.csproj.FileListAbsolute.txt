@@ -1,0 +1,12 @@
+Z:\Собиров Мухаммад\DemoVar\RouteInfoApp\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.csproj.AssemblyReference.cache
+Z:\Собиров Мухаммад\DemoVar\RouteInfoApp\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.csproj.CoreCompileInputs.cache
+Z:\Собиров Мухаммад\DemoVar\RouteInfoApp\RoutesInfoLibrary\bin\Debug\RoutesInfoLibrary.dll
+Z:\Собиров Мухаммад\DemoVar\RouteInfoApp\RoutesInfoLibrary\bin\Debug\RoutesInfoLibrary.pdb
+Z:\Собиров Мухаммад\DemoVar\RouteInfoApp\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.dll
+Z:\Собиров Мухаммад\DemoVar\RouteInfoApp\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.pdb
+Y:\Шеркулова Лэйла\Демо экзамен\demo\RoutesInfoLibrary\bin\Debug\RoutesInfoLibrary.dll
+Y:\Шеркулова Лэйла\Демо экзамен\demo\RoutesInfoLibrary\bin\Debug\RoutesInfoLibrary.pdb
+Y:\Шеркулова Лэйла\Демо экзамен\demo\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.csproj.AssemblyReference.cache
+Y:\Шеркулова Лэйла\Демо экзамен\demo\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.csproj.CoreCompileInputs.cache
+Y:\Шеркулова Лэйла\Демо экзамен\demo\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.dll
+Y:\Шеркулова Лэйла\Демо экзамен\demo\RoutesInfoLibrary\obj\Debug\RoutesInfoLibrary.pdb
